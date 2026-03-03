@@ -8,7 +8,7 @@
 
 One CLI command turns your transaction CSV into customer segments, churn risk scores, revenue exposure analysis, and an executive report. No database, no dashboard, no code to write.
 
-<!-- TODO: add terminal GIF/screenshot here -->
+![Pipeline output](assets/pipeline-output.png)
 
 ## Who Is This For
 
@@ -75,6 +75,8 @@ Strategic Priority
 ## AI Playbooks
 
 Plug in an OpenAI or Anthropic API key and each segment gets a tactical playbook with concrete next steps:
+
+![Champions playbook example](assets/playbook-example.png)
 
 ```text
 At Risk — Tactical Playbook
