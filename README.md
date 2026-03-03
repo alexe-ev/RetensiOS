@@ -218,13 +218,6 @@ Yes. The pipeline is fully deterministic — same input always produces the same
 **Does it work without an AI API key?**
 Absolutely. AI playbooks are optional. Without a key, RetensiOS still generates all core outputs: RFM scores, segments, churn risk, revenue analysis, and the executive report.
 
-## Roadmap
-
-- [ ] PyPI package for `pip install retensios`
-- [ ] Cohort analysis over time (period-over-period comparison)
-- [ ] HTML report with charts
-- [ ] Pluggable scoring models (custom segment definitions)
-- [ ] CSV column auto-detection
 
 See [open issues](https://github.com/alexe-ev/RetensiOS/issues) for more.
 
