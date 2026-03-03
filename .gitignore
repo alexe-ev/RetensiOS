@@ -36,3 +36,11 @@ my_test_output/
 
 # Local coverage files
 .coverage
+
+# Secrets and environment variables
+.env
+.env.*
+
+# Private keys
+*.pem
+*.key

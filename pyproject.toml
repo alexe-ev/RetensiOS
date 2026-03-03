@@ -30,9 +30,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/retensios/retensios"
-Repository = "https://github.com/retensios/retensios"
-Issues = "https://github.com/retensios/retensios/issues"
+Homepage = "https://github.com/alexe-ev/RetensiOS"
+Repository = "https://github.com/alexe-ev/RetensiOS"
+Issues = "https://github.com/alexe-ev/RetensiOS/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=9.0", "pytest-cov>=7.0", "ruff>=0.13"]
