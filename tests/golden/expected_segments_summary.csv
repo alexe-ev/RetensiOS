@@ -1,0 +1,8 @@
+segment,user_count,total_revenue,revenue_share_pct,avg_recency_days,avg_frequency,avg_churn_risk,revenue_at_risk
+At Risk,12,4404.0,43.82,62.5,4.0,58.83,2590.87
+Loyal,8,1970.0,19.6,24.2,4.4,30.68,604.4
+Champions,4,1054.0,10.49,20.5,4.8,24.54,258.65
+Hibernating,8,966.0,9.61,60.0,1.5,82.8,799.85
+Potential Loyalists,10,874.0,8.7,14.3,2.2,44.08,385.26
+Promising,6,732.0,7.28,36.5,2.0,61.3,448.72
+New,2,50.0,0.5,3.5,1.0,46.74,23.37
