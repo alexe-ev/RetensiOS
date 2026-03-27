@@ -1,8 +1,12 @@
-# RetensiOS
+<p align="center">
+  <img src="assets/retensios.png" alt="RetensiOS" width="100%">
+</p>
 
-![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
-![Status: Alpha](https://img.shields.io/badge/status-alpha-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT">
+  <img src="https://img.shields.io/badge/status-alpha-orange" alt="Status: Alpha">
+</p>
 
 **Know which customers you're losing — and what to do about it.**
 
