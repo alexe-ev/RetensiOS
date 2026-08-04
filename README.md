@@ -1,3 +1,5 @@
+# RetensiOS
+
 <p align="center">
   <img src="assets/retensios.png" alt="RetensiOS" width="100%">
 </p>
@@ -5,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python 3.10+">
   <img src="https://img.shields.io/badge/license-MIT-green" alt="License: MIT">
-  <img src="https://img.shields.io/badge/status-alpha-orange" alt="Status: Alpha">
 </p>
 
 **Know which customers you're losing — and what to do about it.**
@@ -88,7 +89,6 @@ At Risk — Tactical Playbook
 Segment Size: 34 users.
 Revenue Share: 21.69% of total revenue.
 Churn Risk: 38.66 (moderate risk).
-Recency: 4.60 days since last order.
 
 Tactical Actions:
 - Launch a personalized email campaign within 7 days with a 15% incentive.
@@ -237,6 +237,10 @@ Before opening a PR:
 - Add or update tests for behavioral changes.
 - Keep docs in sync with implementation.
 - Ensure deterministic outputs are preserved for golden tests.
+
+## Where this sits
+
+One of my [product decision tools](https://github.com/alexe-ev): the same cost-asymmetry logic drives [ml-impact-calculator](https://github.com/alexe-ev/ml-impact-calculator) (ML threshold decisions) and this repo (retention decisions).
 
 ## License
 
