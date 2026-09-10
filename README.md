@@ -36,7 +36,7 @@ Every run produces four files in seconds — deterministic, repeatable, ready to
 ## Quick Start
 
 ```bash
-pip install .
+pip install git+https://github.com/alexe-ev/RetensiOS.git
 retensios init
 retensios run data.csv
 ```
@@ -72,7 +72,7 @@ Strategic Priority
 | | Traditional approach | RetensiOS |
 |---|---|---|
 | **Tools needed** | SQL + Python/R + BI dashboard | One CLI command |
-| **Setup time** | Hours to days | `pip install .` |
+| **Setup time** | Hours to days | One `pip install` |
 | **Time to insight** | 1–3 days | ~30 seconds |
 | **Repeatability** | Manual, prone to drift | Deterministic — same data, same result |
 | **Cost** | Analyst time + tool licenses | Free and open-source |
@@ -196,13 +196,17 @@ A weighted proxy score from 0 (safe) to 100 (high risk):
 
 ## Installation
 
+Not on PyPI yet — install straight from GitHub:
+
 ```bash
-pip install .
+pip install git+https://github.com/alexe-ev/RetensiOS.git
 ```
 
 Development setup:
 
 ```bash
+git clone https://github.com/alexe-ev/RetensiOS.git
+cd RetensiOS
 python -m venv .venv
 source .venv/bin/activate
 pip install -e ".[dev]"
